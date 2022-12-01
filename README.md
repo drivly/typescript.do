@@ -1,27 +1,27 @@
-# Templates.do - Worker Templates API 
+# Typescript.do - Typescript Generation & Parsing API
 
-Explore the API at: <https://templates.do/api>
+Explore the API at: <https://typescript.do/api>
 
 ```json
 {
   "api": {
     "icon": "🚀",
-    "name": "templates.do",
-    "description": "Cloudflare Worker Template",
-    "url": "https://templates.do/api",
-    "type": "https://apis.do/templates",
+    "name": "typescript.do",
+    "description": "Typescript Generation & Parsing API",
+    "url": "https://typescript.do/api",
+    "type": "https://apis.do/code",
     "endpoints": {
-      "listCategories": "https://templates.do/api",
-      "getCategory": "https://templates.do/:type"
+      "listCategories": "https://typescript.do/api",
+      "getCategory": "https://typescript.do/:type"
     },
-    "site": "https://templates.do",
-    "login": "https://templates.do/login",
-    "signup": "https://templates.do/signup",
-    "subscribe": "https://templates.do/subscribe",
-    "repo": "https://github.com/drivly/templates.do"
+    "site": "https://typescript.do",
+    "login": "https://typescript.do/login",
+    "signup": "https://typescript.do/signup",
+    "subscribe": "https://typescript.do/subscribe",
+    "repo": "https://github.com/drivly/typescript.do"
   }
   "examples": {
-    "listItems": "https://templates.do/worker"
+    "listItems": "https://typescript.do/worker"
   }
 }
 ```
